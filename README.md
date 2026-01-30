@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&reversal=false&fontSize=0&fontColor=FFFFFF&fontAlign=0&fontAlignY=50&stroke=-&descSize=0&descAlign=0&descAlignY=0&textBg=false&theme=gruvbox_light"  />
+  <img style="80%" src="https://capsule-render.vercel.app/api?type=waving&section=header&reversal=false&fontSize=0&fontColor=FFFFFF&fontAlign=0&fontAlignY=50&stroke=-&descSize=0&descAlign=0&descAlignY=0&textBg=false&theme=gruvbox_light"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Aytek</h1>
