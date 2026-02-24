@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aytek</h1>
-<h3 align="center">Jr. Frontend Developer from Turkey</h3>
+<h3 align="center">Jr. Frontend Developer</h3>
 
 
 <div>
